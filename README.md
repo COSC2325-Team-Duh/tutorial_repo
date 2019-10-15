@@ -13,3 +13,5 @@ git commit -am "<commit message>"
 ```
 
 where `<commit message>` is a short, 140-character message about what you did.
+
+Simon was here
